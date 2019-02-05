@@ -1,0 +1,4 @@
+{
+  "helpers": "./qgen-helpers.js",
+  "dest": "./build"
+}

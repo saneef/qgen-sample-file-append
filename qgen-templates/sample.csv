@@ -1,0 +1,3 @@
+{{appendFile filepath}}
+---
+supplied file should be added before this line ☝️
