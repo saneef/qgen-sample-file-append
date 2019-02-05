@@ -1,5 +1,7 @@
 # qgen-sample-file-append
 
+A sample project using [qgen](https://github.com/alarisprime/qgen), to append a file to templates.
+
 ## Instructions
 
 ```bash
